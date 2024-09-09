@@ -1,0 +1,3 @@
+mySQL > mysql -u root -p
+Enter password: Saurabh@77
+ show databases;
